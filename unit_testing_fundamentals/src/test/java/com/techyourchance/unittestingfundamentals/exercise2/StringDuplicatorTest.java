@@ -11,7 +11,7 @@ public class StringDuplicatorTest {
     StringDuplicator SUT;
 
     @Before
-    public void StringDuplicator(){
+    public void setup(){
         SUT = new StringDuplicator();
     }
 
